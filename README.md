@@ -16,9 +16,6 @@ This repository contains two small Android projects demonstrating how Jetpack Co
 In the traditional Android View system, `TextWatcher` requires implementing three methods even if only one is needed.  
 Jetpack Compose simplifies this with a single `onValueChange` callback, fully respecting clean code and SOLID design principles.
 
-## Screenshot
-
-*(You can add screenshots here later if you want.)*
 
 ## License
 
